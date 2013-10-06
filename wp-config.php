@@ -100,6 +100,8 @@ if ( !defined('ABSPATH') )
 /** Ustawia zmienne WordPressa i dołączane pliki. */
 require_once(ABSPATH . 'wp-settings.php');
 
+define('WP_CACHE', true);
+
 $batcache = [
   'seconds'=>0,
   'max_age'=>30*60, // 30 minutes
