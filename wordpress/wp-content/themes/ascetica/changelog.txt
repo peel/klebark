@@ -1,0 +1,21 @@
+== Changelog ==
+
+= 0.3.5 =
+* Updated Hybrid Core to 1.6.
+* Minor improvement in the home page loop.
+
+= 0.3.1 =
+Fixed a warning for non-existing function.
+
+= 0.3 =
+* Migrated theme settings to the theme Customizer. The old settings entries will be used as a fallback, but please re-save all settings in the Customizer and/or Header as support for legacy settings will be dropped in the future.
+* Removed the favicon upload option. Simply place a favicon.ico file in the theme folder instead.
+* Added support for custom header to replace the old logo upload option.
+* Added Danish language files.
+* Updated the English language files.
+* Added a minified stylesheet - style.min.css.
+* Added new 600x450 screenshot.
+* Updated Hybrid Core to 1.5.3.
+* Added responsive menu toggle.
+* Modified the base markup structure in order to get the menu loaded right after the header when viewed on narrow screen.
+* Added changelog.txt file.

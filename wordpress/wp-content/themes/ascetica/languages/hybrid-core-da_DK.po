@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hybrid Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-23 11:09+0200\n"
+"PO-Revision-Date: 2013-02-19 17:33+0100\n"
+"Last-Translator: Carl Andersen <info@vemmelev-webdesign.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_n;_x;_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-Language: English\n"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-post-seo.php:37
+msgid "SEO"
+msgstr "SEO"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-post-seo.php:70
+msgid "Document Title:"
+msgstr "Dokument-Titel:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-post-seo.php:76
+msgid "Meta Description:"
+msgstr "Meta Beskrivelse:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-post-seo.php:82
+msgid "Meta Keywords:"
+msgstr "Meta Nøgleord:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-post-template.php:36
+msgid "Template"
+msgstr "Skabelon"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-post-template.php:87
+msgid "No templates exist for this post type."
+msgstr "Ingen skabeloner eksisterer for denne indlægstype."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-about.php:31
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-about.php:36
+#, php-format
+msgid "About %s"
+msgstr "Om %s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-about.php:61
+msgid "Theme:"
+msgstr "Tema:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-about.php:69
+msgid "Version:"
+msgstr "Version:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-about.php:77
+msgid "Author:"
+msgstr "Skribent:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-about.php:85
+msgid "Description:"
+msgstr "Beskrivelse:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-footer.php:29
+msgid "Footer settings"
+msgstr "Footer indstillinger"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/meta-box-theme-footer.php:52
+msgid "You can add custom <acronym title=\"Hypertext Markup Language\">HTML</acronym> and/or shortcodes, which will be automatically inserted into your theme."
+msgstr "Du kan tilføje brugertilpasset <acronym title=\"Hypertext Markup Language\">HTML</acronym> og/eller shortkoder som automatisk vil blive indføjet i dit tema."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:47
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:171
+#, php-format
+msgid "%s Theme Settings"
+msgstr "%s Tema indstillinger"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:48
+msgid "Theme Settings"
+msgstr "Tema indstillinger"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:172
+msgid "Customize"
+msgstr "Tilpasning"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:198
+msgid "Update Settings"
+msgstr "Opdater indstillinger"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:255
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/admin/theme-settings.php:259
+msgid "Support"
+msgstr "Brugerhjælp"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:32
+msgid "An advanced widget that gives you total control over the output of your archives."
+msgstr "Et avanceret widget der giver dig fuld kontrol over outputtet af dine arkiver."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:141
+msgid "Archives"
+msgstr "Arkiver"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:79
+msgid "Select Year"
+msgstr "Vælg år"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:82
+msgid "Select Month"
+msgstr "Vælg måned"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:85
+msgid "Select Week"
+msgstr "Vælg uge"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:88
+msgid "Select Day"
+msgstr "Vælg dag"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:91
+msgid "Select Post"
+msgstr "Vælg indlæg"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:154
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:154
+msgid "Daily"
+msgstr "Daglig"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:154
+msgid "Monthly"
+msgstr "Månedlig"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:154
+msgid "Post By Post"
+msgstr "Indlæg af indlæg"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:154
+msgid "Weekly"
+msgstr "Ugentlig"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:154
+msgid "Yearly"
+msgstr "Årlig"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:157
+msgid "Custom"
+msgstr "Brugerdefineret"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:157
+msgid "HTML"
+msgstr "HTML"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:157
+msgid "Option"
+msgstr "Tilvalg"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:162
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:143
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:187
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-calendar.php:108
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:170
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-nav-menu.php:133
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:157
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:143
+msgid "Title:"
+msgstr "Titel:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-archives.php:198
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:191
+msgid "Show post count?"
+msgstr "Vis indlægsoptælling?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:32
+msgid "An advanced widget that gives you total control over the output of your author lists."
+msgstr "Et avanceret widget som giver dig fyld kontrol over outputtet af dine skribenter lister."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:119
+msgid "Authors"
+msgstr "Skribenter"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:136
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:178
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:180
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:162
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:148
+msgid "Ascending"
+msgstr "Opadstigende"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:136
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:178
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:180
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:162
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:148
+msgid "Descending"
+msgstr "Nedadstigende"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+msgid "Display Name"
+msgstr "Vis navn"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+msgid "Email"
+msgstr "Email"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:179
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:163
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+msgid "ID"
+msgstr "ID"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+msgid "Nice Name"
+msgstr "Kaldenavn"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+msgid "Post Count"
+msgstr "Indlægstælling"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+msgid "Registered"
+msgstr "Registreret"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "URL"
+msgstr "URL"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:137
+msgid "Login"
+msgstr "Logind"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:169
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:161
+msgid "List"
+msgstr "Liste"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:169
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:161
+msgid "None"
+msgstr "Ingen"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:187
+msgid "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+msgstr "<acronym title=\"Hypertext Markup Language\">HTML</acronym>?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:195
+msgid "Exclude admin?"
+msgstr "Udelukke admin?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:199
+msgid "Show full name?"
+msgstr "Vis fulde navn?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-authors.php:203
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:273
+msgid "Hide empty?"
+msgstr "Skjul tomt?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:32
+msgid "An advanced widget that gives you total control over the output of your bookmarks (links)."
+msgstr "Et avanceret widget der giver dig fuld kontrol med outputtet fra dine bookmarks (links)."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:85
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:148
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:179
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:163
+msgid "Count"
+msgstr "Optælling"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:179
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:163
+msgid "Name"
+msgstr "Navn"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:179
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:163
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+msgid "Slug"
+msgstr "Slug"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Length"
+msgstr "Længde"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Notes"
+msgstr "Notate"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Owner"
+msgstr "Ejer"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Random"
+msgstr "Tilfældig"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Rating"
+msgstr "Rating"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Rel"
+msgstr "Rel"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:164
+msgid "RSS"
+msgstr "RSS"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Target"
+msgstr "Mål"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:181
+msgid "Updated"
+msgstr "Opdateret"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:289
+msgid "Categorize?"
+msgstr "Kategorisere?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:293
+msgid "Show description?"
+msgstr "Vis beskrivelse?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:297
+msgid "Hide invisible?"
+msgstr "Skjul  usynlige?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:301
+msgid "Show rating?"
+msgstr "Vis rating?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:305
+msgid "Show updated?"
+msgstr "Vis opdatering?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:309
+msgid "Show images?"
+msgstr "Vis billeder?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:313
+msgid "Show name?"
+msgstr "Vis navn?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-bookmarks.php:317
+msgid "Show private?"
+msgstr "Vis private?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-calendar.php:32
+msgid "An advanced widget that gives you total control over the output of your calendar."
+msgstr "Et avanceret widget der giver dig fuld kontrol over outputtet af din kalender."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-calendar.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-calendar.php:99
+msgid "Calendar"
+msgstr "Kalender"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-calendar.php:113
+msgid "One-letter abbreviation?"
+msgstr "Enstavet forkortelse?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:32
+msgid "An advanced widget that gives you total control over the output of your category links."
+msgstr "Et avanceret widget der giver dig fuld kontrol over outputtet af dine kategorilinks."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:133
+msgid "Categories"
+msgstr "Kategorier"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:163
+msgid "Term Group"
+msgstr "Udtryk gruppe"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:164
+msgid "Atom"
+msgstr "Atom"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:164
+msgid "RDF"
+msgstr "RDF"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:164
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:261
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:256
+msgid "Hierarchical?"
+msgstr "Hierarkisk?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:265
+msgid "Use description?"
+msgstr "Brug beskrivelse?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-categories.php:269
+msgid "Show count?"
+msgstr "Vis tælling?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-nav-menu.php:32
+msgid "An advanced widget that gives you total control over the output of your menus."
+msgstr "Et avanceret widget der giver dig fuld kontrol over outputtet af dine menuer."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-nav-menu.php:44
+msgid "Navigation Menu"
+msgstr "Navigations-Menu"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-nav-menu.php:109
+msgid "Navigation"
+msgstr "Navigation"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:32
+msgid "An advanced widget that gives you total control over the output of your page links."
+msgstr "Et avanceret widget der giver dig fuld kontrol over outputtet af dine sidelinks."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:123
+msgid "Pages"
+msgstr "Sider"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+msgid "Author"
+msgstr "Skribent"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+msgid "Date"
+msgstr "Dato"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+msgid "Menu Order"
+msgstr "Menu-Orden"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:150
+msgid "Modified"
+msgstr "Modificeret"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:149
+msgid "Title"
+msgstr "Titel"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-pages.php:150
+msgid "Created"
+msgstr "Oprettet"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:33
+msgid "An advanced widget that gives you total control over the output of your search form."
+msgstr "Et avanceret widget der giver dig fuld kontrol med outputtet fra din søgeformular."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:45
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:131
+msgid "Search"
+msgstr "Søg"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:147
+msgid "Search Label:"
+msgstr "Søge Label:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:151
+msgid "Search Text:"
+msgstr "Søge tekst:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:158
+msgid "Search Submit:"
+msgstr "Indtast søgeord:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-search.php:163
+msgid "Use theme's <code>searchform.php</code>?"
+msgstr "Brug temaets <code>searchform.php</code>?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:32
+msgid "An advanced widget that gives you total control over the output of your tags."
+msgstr "Et avanceret widget der giver dig fuld kontrol over outputtet af dine tags."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:44
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:143
+msgid "Tags"
+msgstr "Tags"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:171
+msgid "View"
+msgstr "Fremvis"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:171
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:389
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:422
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:437
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:465
+msgid "Edit"
+msgstr "Rediger"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:172
+msgid "Flat"
+msgstr "Skærm"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/classes/widget-tags.php:288
+msgid "Pad counts?"
+msgstr "Blog tælling?"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:44
+msgid "Browse:"
+msgstr "Browse:"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:47
+msgid "Home"
+msgstr "Forside"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:301
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:423
+msgid "g:i a"
+msgstr "g:i a"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:304
+#, php-format
+msgid "Minute %1$s"
+msgstr "Minut %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:304
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:426
+msgid "i"
+msgstr "i"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:307
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:429
+msgid "g a"
+msgstr "g a"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:318
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:324
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:329
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:334
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:521
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:435
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:441
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/core-seo.php:90
+msgid "Y"
+msgstr "Y"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:319
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:330
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:525
+msgid "F"
+msgstr "F"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:320
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:529
+msgid "d"
+msgstr "d"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:325
+#, php-format
+msgid "Week %1$s"
+msgstr "Uge %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:325
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:435
+msgid "W"
+msgstr "W"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:341
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:452
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr "Søge resultater for &quot;%1$s&quot;"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:345
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:456
+msgid "404 Not Found"
+msgstr "404 Ikke Fundet"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:414
+msgid "Split"
+msgstr "Split"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:418
+msgid "Merge"
+msgstr "Sammenflet"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:525
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/core-seo.php:86
+msgid "F Y"
+msgstr "j. F"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/breadcrumb-trail.php:529
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/custom-field-series.php:86
+msgid "Articles in this series"
+msgstr "Artikler i denne serie"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/custom-field-series.php:212
+msgid "Series"
+msgstr "Serier"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/post-stylesheets.php:255
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:295
+msgid "Default"
+msgstr "Standard"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:296
+msgid "One Column"
+msgstr "En kolonne"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:297
+msgid "Two Columns, Left"
+msgstr "To kolonner, venstre"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:298
+msgid "Two Columns, Right"
+msgstr "To kolonner, højre"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:299
+msgid "Three Columns, Left"
+msgstr "Tre kolonner, venstre"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:300
+msgid "Three Columns, Right"
+msgstr "Tre kolonner, højre"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:301
+msgid "Three Columns, Center"
+msgstr "Tre kolonner, center"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:377
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:485
+msgid "Layout"
+msgstr "Layout"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/extensions/theme-layouts.php:404
+msgid "Layout is a theme-specific structure for the single view of the post."
+msgstr "Layout er en tema-specifik struktur for den enkelte visning af indlægget."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:182
+msgid "*"
+msgstr "*"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:189
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:195
+msgid "Comment"
+msgstr "Kommentar"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:196
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr "Du skal være <a href=\"%1$s\" title=\"Log in\">logget ind</a> for at skrive en kommentar."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:197
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr "Logget ind som <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:197
+msgid "Log out of this account"
+msgstr "Log ud af denne konto"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:197
+msgid "Log out &raquo;"
+msgstr "Log ud &raquo;"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:202
+msgid "Leave a Reply"
+msgstr "Skriv en kommentar"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:203
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Skriv en kommentar til %s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:204
+msgid "Click here to cancel reply."
+msgstr "Klik her for at annullere din kommentar."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/comments.php:205
+msgid "Post Comment"
+msgstr "Indlægskommentar"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:423
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:429
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:432
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:438
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:441
+#, php-format
+msgid "Archive for %1$s"
+msgstr "Arkiv for %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:426
+#, php-format
+msgid "Archive for minute %1$s"
+msgstr "Arkiv for minut %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:432
+msgid "F jS, Y"
+msgstr "j. F Y"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:435
+#, php-format
+msgid "Archive for week %1$s of %2$s"
+msgstr "Arkiv for uge %1$s af %2$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/context.php:460
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr "%1$s Side %2$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/core-seo.php:93
+#, php-format
+msgid "Copyright (c) %1$s"
+msgstr "Copyright (c) %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/core-seo.php:112
+msgid "l, F jS, Y, g:i a"
+msgstr "l, j. F Y, g:i a"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/customize.php:63
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/customize.php:88
+msgid "Footer"
+msgstr "Footer"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/deprecated.php:572
+#, php-format
+msgid "<code>%1$s</code> &mdash; This function has been removed or replaced by another function."
+msgstr "<code>%1$s</code> &mdash; Denne funktion er blevet fjernet eller udskiftet med en anden funktion."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/menus.php:38
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr "Primær"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/menus.php:42
+msgctxt "nav menu location"
+msgid "Secondary"
+msgstr "Sekundær"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/menus.php:46
+msgctxt "nav menu location"
+msgid "Subsidiary"
+msgstr "Subsidiære"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/settings.php:76
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/settings.php:80
+msgid "Copyright &#169; [the-year] [site-link]."
+msgstr "Copyright &#169; [the-year] [site-link]."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/settings.php:76
+msgid "Powered by [wp-link], [theme-link], and [child-link]."
+msgstr "Drevet af [wp-link], [theme-link], og [child-link]"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/settings.php:80
+msgid "Powered by [wp-link] and [theme-link]."
+msgstr "Drevet af [wp-link] og [theme-link]."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:93
+msgid "State-of-the-art semantic personal publishing platform"
+msgstr "Nyeste nye semantisk personlig udgivelse platform"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:93
+msgid "WordPress"
+msgstr "WordPress"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:106
+#, php-format
+msgid "%s WordPress Theme"
+msgstr "%s WordPress Tema"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:134
+msgid "Log out"
+msgstr "Log ud"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:136
+msgid "Log in"
+msgstr "Log ind"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:151
+#, php-format
+msgid "This page loaded in %1$s seconds with %2$s database queries."
+msgstr "Denne side er loadet på %1$s sekunder ved %2$s database forespørgsel."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:204
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:443
+#, php-format
+msgid "Edit %1$s"
+msgstr "Rediger %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:234
+msgid "Leave a response"
+msgstr "Skriv en kommentar"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:234
+#, php-format
+msgid "%1$s Response"
+msgstr "%1$s Kommentar"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:234
+#, php-format
+msgid "%1$s Responses"
+msgstr "%1$s Kommentarer"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:241
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:243
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:245
+#, php-format
+msgid "Comment on %1$s"
+msgstr "Kommentar til %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:305
+msgid "(Untitled)"
+msgstr "(Unavngivet)"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:321
+msgid "Shortlink"
+msgstr "Kort link"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:345
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:422
+msgid "Permalink"
+msgstr "Permalink"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:373
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl %2$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:422
+#, php-format
+msgid "Permalink to comment %1$s"
+msgstr "Permalink til kommentar %1$s"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:462
+msgid "Reply"
+msgstr "Svar"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/shortcodes.php:463
+msgid "Log in to reply."
+msgstr "Log ind for at svare."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:87
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Primær"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:88
+msgid "The main (primary) widget area, most often used as a sidebar."
+msgstr "Hoved(primære) widget området, oftest benyttet som en sidebar."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:91
+msgctxt "sidebar"
+msgid "Secondary"
+msgstr "Sekundær"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:92
+msgid "The second most important widget area, most often used as a secondary sidebar."
+msgstr "Det andenvigtigste widget område, oftest benyttet som en sekundær sidebar."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:95
+msgctxt "sidebar"
+msgid "Subsidiary"
+msgstr "Subsidiære"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:96
+msgid "A widget area loaded in the footer of the site."
+msgstr "Et widget område loaded i footer på hjemmesiden."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:99
+msgctxt "sidebar"
+msgid "Header"
+msgstr "Header"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:100
+msgid "Displayed within the site's header area."
+msgstr "Vist inden for hjemmesidens headerområde."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:103
+msgctxt "sidebar"
+msgid "Before Content"
+msgstr "Før Indhold"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:104
+msgid "Loaded before the page's main content area."
+msgstr "Loaded før sidens hovedindholdsområde."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:107
+msgctxt "sidebar"
+msgid "After Content"
+msgstr "Efter Indhold"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:108
+msgid "Loaded after the page's main content area."
+msgstr "Loaded efter sidens hovedindholdsområde."
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:111
+msgctxt "sidebar"
+msgid "After Singular"
+msgstr "Efter ordinær"
+
+#: /Applications/MAMP/htdocs/cell/wp-content/themes/ascetica/library/functions/sidebars.php:112
+msgid "Loaded on singular post (page, attachment, etc.) views before the comments area."
+msgstr "Loaded på ordinær indlæg (side, vedhæftning, etc) vist før kommentarerområdet."
+

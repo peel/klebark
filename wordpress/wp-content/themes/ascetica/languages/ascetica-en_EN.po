@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ascetica\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-23 22:04+0200\n"
+"PO-Revision-Date: 2013-02-23 22:04+0200\n"
+"Last-Translator: Galin Simeonov <galin@alienwp.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_n;_x;_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:25
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:30
+#, php-format
+msgid "You tried going to %1$s, and it doesn't exist. All is not lost! You can search for what you're looking for."
+msgstr ""
+
+#: attachment.php:44
+#, php-format
+msgid "Download &quot;%1$s&quot;"
+msgstr ""
+
+#: attachment.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: attachment.php:50
+#: content-gallery.php:42
+#: content-gallery.php:56
+#: content.php:27
+#: content.php:60
+msgid "Pages:"
+msgstr ""
+
+#: comment.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:25
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:25
+msgid "One Response"
+msgstr ""
+
+#: comments.php:25
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+msgid "Comments are closed, but <a href=\"%1$s\" title=\"Trackback URL for this post\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: content-gallery.php:28
+msgid "[entry-author before=\"Author: \"]"
+msgstr ""
+
+#: content-gallery.php:30
+msgid "[entry-terms taxonomy=\"category\" before=\"Category: \"]"
+msgstr ""
+
+#: content-gallery.php:32
+#: content.php:31
+msgid "[entry-terms taxonomy=\"post_tag\" before=\"Tags: \"]"
+msgstr ""
+
+#: content-gallery.php:54
+#: content.php:21
+#: content.php:56
+msgid "[entry-published] &middot; by [entry-author] &middot; in [entry-terms taxonomy=\"category\" before=\"\"] [entry-edit-link before=\" &middot; \"]"
+msgstr ""
+
+#: functions.php:179
+#: loop-nav.php:28
+msgid "&laquo; Previous"
+msgstr ""
+
+#: functions.php:180
+#: loop-nav.php:28
+msgid "Next &raquo;"
+msgstr ""
+
+#: functions.php:227
+msgid "*"
+msgstr ""
+
+#: functions.php:232
+msgid "Name"
+msgstr ""
+
+#: functions.php:233
+msgid "Email"
+msgstr ""
+
+#: functions.php:234
+msgid "Website"
+msgstr ""
+
+#: functions.php:239
+msgid "Comment"
+msgstr ""
+
+#: functions.php:240
+#, php-format
+msgid "You must be <a href=\"%1$s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:241
+#, php-format
+msgid "Logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>."
+msgstr ""
+
+#: functions.php:241
+msgid "Log out of this account"
+msgstr ""
+
+#: functions.php:241
+msgid "Log out &raquo;"
+msgstr ""
+
+#: functions.php:246
+msgid "Leave a Reply"
+msgstr ""
+
+#: functions.php:247
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: functions.php:248
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: functions.php:249
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:261
+msgid "Copyright &#169; [the-year] [site-link]"
+msgstr ""
+
+#: functions.php:261
+msgid "Powered by [wp-link] and [theme-link]"
+msgstr ""
+
+#: loop-error.php:15
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: loop-nav.php:16
+msgid "&laquo; Return to entry"
+msgstr ""
+
+#: loop-nav.php:22
+msgid "<span class=\"meta-nav\">&laquo;</span> Previous"
+msgstr ""
+
+#: loop-nav.php:23
+msgid "Next <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: menu-primary.php:17
+msgid "Menu"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search this site..."
+msgstr ""
+
+#: searchform.php:19
+#: sidebar-secondary.php:22
+msgid "Search"
+msgstr ""
+
+#: sidebar-primary.php:22
+msgid "Meta"
+msgstr ""
+
+#: sidebar-primary.php:33
+msgid "Archives"
+msgstr ""
+
+#: admin/customize.php:30
+msgid "Typography"
+msgstr ""
+
+#: admin/customize.php:36
+#: admin/customize.php:123
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/customize.php:76
+msgid "Font Family"
+msgstr ""
+
+#: admin/customize.php:97
+msgid "Font Size"
+msgstr ""
+
+#: admin/customize.php:115
+msgid "Link Color"
+msgstr ""
+
+#: includes/widget-thumbnails.php:25
+msgid "Display post images from selected category."
+msgstr ""
+
+#: includes/widget-thumbnails.php:37
+msgid "Ascetica - Thumbnails"
+msgstr ""
+
+#: includes/widget-thumbnails.php:59
+msgid "No images."
+msgstr ""
+
+#: includes/widget-thumbnails.php:118
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/widget-thumbnails.php:128
+msgid "Title"
+msgstr ""
+
+#: includes/widget-thumbnails.php:135
+msgid "Select Category"
+msgstr ""
+
+#: includes/widget-thumbnails.php:145
+msgid "Number of thumbnails"
+msgstr ""
+
+#: includes/widget-thumbnails.php:151
+msgid "Display in random order"
+msgstr ""
+
